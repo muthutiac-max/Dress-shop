@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lumière Couture",
+  "description": "An elegant, AI-powered dress shop featuring a virtual stylist and AI try-on capabilities to help you find your perfect look.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
